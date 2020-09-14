@@ -1,2 +1,1 @@
-# CSE115
-Programming Language I (C)
+# Periodic Table Element Details
